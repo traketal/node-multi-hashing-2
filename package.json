@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ocminer/node-multi-hashing-2.git"
+        "url": "https://github.com/traketal/node-multi-hashing-2.git"
     },
     "dependencies": {
         "bindings": "^1.3.0",
